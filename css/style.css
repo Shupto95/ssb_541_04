@@ -1,0 +1,62 @@
+.header{
+    height: 50px;
+    width: 100%;
+    background-color: red;
+  
+}
+
+
+.content{
+  border: 2px solid blue;
+  overflow: hidden;
+  
+}
+.green{
+    height: 50px;
+    width: 60%;
+    background-color: green;
+   float: left;
+}
+.yellow{
+    height: 50px;
+    width: 35%;
+    background-color: yellow;
+    float: right;
+}
+.footer{
+    height: 20px;
+    width: 100%;
+    background-color: black;
+}
+
+.wrapper{
+ 
+    overflow: hidden;
+}
+.gray{
+    height: 40px;
+    width: 33.33%;
+    background-color: gray;
+    float: left;
+}
+.orange{
+    height: 40px;
+    width: 33.33%;
+    background-color: orange;
+    float: left;
+}
+.purple{
+    height: 40px;
+    width: 33.33%;
+    background-color: purple;
+    float: left;
+}
+.map{
+    height: 300px;
+    width: 300px;
+}
+
+.video{
+    height: 350px;
+    width: 350px;
+}
